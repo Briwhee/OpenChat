@@ -1,0 +1,2 @@
+# OpenChat
+ Local AI Chat
